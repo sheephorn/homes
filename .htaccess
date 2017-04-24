@@ -1,3 +1,3 @@
-<Files ~ ".[env|json|ini]$">
+<Files .env>
 deny from all
 </Files>
